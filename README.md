@@ -1,6 +1,6 @@
 # Transformer_Raman_Classification
 
-Transformer and Raman spectroscopy enable a new diagnosis method for COVID-19
+Transformer and Raman spectroscopy enable a new detection method for COVID-19
 
 Dataset:
 You need to manually complete the following operations. 
